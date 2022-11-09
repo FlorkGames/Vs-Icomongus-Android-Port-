@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greengf.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="greengf0000" x="2" y="2" width="613" height="340" pivotX="-347.45" pivotY="43.65" frameX="-26" frameY="-7" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0001" x="2" y="2" width="613" height="340" frameX="-26" frameY="-7" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0002" x="617" y="2" width="640" height="344" frameX="0" frameY="-3" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0003" x="617" y="2" width="640" height="344" frameX="0" frameY="-3" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0004" x="1259" y="2" width="641" height="347"/>
+	<SubTexture name="greengf0005" x="1259" y="2" width="641" height="347"/>
+	<SubTexture name="greengf0006" x="2" y="351" width="457" height="347" frameX="-184" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0007" x="2" y="351" width="457" height="347" frameX="-184" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0008" x="461" y="351" width="440" height="347" frameX="-201" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0009" x="461" y="351" width="440" height="347" frameX="-201" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0010" x="903" y="351" width="434" height="347" frameX="-207" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0011" x="903" y="351" width="434" height="347" frameX="-207" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0012" x="903" y="351" width="434" height="347" frameX="-207" frameY="0" frameWidth="641" frameHeight="347"/>
+	<SubTexture name="greengf0013" x="903" y="351" width="434" height="347" frameX="-207" frameY="0" frameWidth="641" frameHeight="347"/>
+</TextureAtlas>
